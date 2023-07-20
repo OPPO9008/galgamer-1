@@ -1,7 +1,6 @@
 ---
 title: 少女献鸣的爱之奏章：在乙女的花园里追寻爱与梦想
-date: 2023-7-17 00:30:00
-keywords: '音符社，ensemble，思いを捧げる乙女のメロディー'
+keywords: 音符社，ensemble，思いを捧げる乙女のメロディー
 banner_img: ''
 index_img: ../image/otomelo/cover.webp
 tags:
@@ -10,16 +9,18 @@ tags:
   - 校园
   - 治愈
 categories:
-  - [R-18]
-  - [游戏公司, ensemble]
-abbrlink: 
-author: 'sacalwiki'
-excerpt: '女装就算了，而且还是女学生&女教师的双重身份！'
+  - - R-18
+  - - 游戏公司
+    - ensemble
+abbrlink: 61048
+author: sacalwiki
+excerpt: 女装就算了，而且还是女学生&女教师的双重身份！
+date: 2023-07-17 00:30:00
 ---
 
-<img src="../image/otomelo/tg-preview.jpg" class="d-none"/>
+<img src="../image/otomelo/tg-preview.png" class="d-none"/>
 
-![Cover](../image/otomelo/cover.jpg)
+![Cover](../image/otomelo/cover.png)
 
 | 資訊一覽     |                 |
 | :----------- | :------------------------------------ |
