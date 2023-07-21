@@ -1079,7 +1079,7 @@ tjs_uint TJS_INTF_METHOD tTVPXP3ArchiveStream::Read(void *buffer, tjs_uint read_
 整個過程，忽略解壓的部分，的執行如下圖所示：
 
 <video class='mb-3' playsinline="" autoplay="" muted="" loop=""  controls="" width='100%'>
-    <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/xp3-2/wholeview2.mp4" type="video/mp4">
+    <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/xp3-2/wholeview3.mp4" type="video/mp4">
 </video>
 <p class="image-caption">Fig 8.5.2 解密系統的全景圖</p>
 
