@@ -87,8 +87,8 @@ Lilie 学院是一所艺术气息浓厚的大小姐学校，
     min-height: 400px;
     background-image: var(--right-bg);
     background-repeat: no-repeat;
-    background-position: bottom -80px right calc(100% * 0.3 - 130px);
-    background-size: auto 550px;
+    background-position: top 0px right calc(100% * 0.3 - 130px);
+    background-size: auto 480px;
 
     margin: 0;
     padding: 0;
@@ -121,7 +121,7 @@ Lilie 学院是一所艺术气息浓厚的大小姐学校，
     .sp-character .char-overlay {
       min-height: unset;
       /* background-size: contain;*/
-      background-position: bottom -90px right 0px; 
+      background-position: top 0px right 0px; 
     }
     :root { /* 配色 */
       --chara-card-color: #ffffff87;
@@ -190,12 +190,12 @@ Lilie 学院是一所艺术气息浓厚的大小姐学校，
 <br>
 <sp-character no=3 name="野々宮 美亜" yomi="nonomiya mia" uid="mia">
   <p>
-    有上进心、好胜的傲娇钢琴手。
+    有上进心、好胜的傲娇钢琴家。
   </p>
   <p>
     超越傲娇教科书，可入傲娇英灵殿级别的傲娇，<br>
     虽然熟识前她对主角表现出了极强的竞争意识，<br>
-    虽然情绪管理做得很好但是被夸就会直接破功开始傲娇。<br>
+    情绪管理也做得很好，但是被夸就会直接破功开始傲娇。<br>
   </p>
 </sp-character>
 <br>
