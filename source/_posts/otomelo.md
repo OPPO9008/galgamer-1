@@ -47,7 +47,7 @@ Lilie 学院是一所艺术气息浓厚的大小姐学校，
 于是她便想到了自己优秀的弟弟。
 
 男主角满口答应下来，于是办理了休学，开始了教书之旅。
-不曾想，被姐姐的好友**園谷千春** 连哄带骗套上了女装！
+不曾想，被姐姐的好友---校保健老师**園谷千春** 连哄带骗套上了女装！
 而且得知了一个更惊人的事实，竟然不是单纯的教书，而是 既当老师，也做学生！
 就这样，紧张刺激的女装生活正式拉开帷幕。
 
@@ -182,9 +182,9 @@ Lilie 学院是一所艺术气息浓厚的大小姐学校，
     元气随和的中提琴手。
   </p>
   <p>
-    千夏的姐姐正是前文提到的那个给主角套女装的愉悦犯，<br>
-    大概是受了无拘无束的姐姐的影响，千夏身上没有女校学生身上浓重的规矩味儿，<br>
-    主角第一次在没人的周末看见她时，她正趴在桌子上吃薯片。<br>
+    校保健老师園谷千春的妹妹，（但千夏不知道主角的真实性别）<br>
+    跟古灵精怪的姐姐不同，千夏比较老实，认真，礼仪端正，<br>
+    非常纯情，有时会此发呆<br>
   </p>
 </sp-character>
 <br>
@@ -255,13 +255,15 @@ ensemble 还是比较照顾玩家的，没有 bad end，
 
 ## 资源和下载
 
-本篇：
+本篇：汉化硬盘版
+秒传链接 密码：tmhtmiao.com
 ```
-magnet:?xt=urn:btih:bd62355a43340d99f96fced0d19a0da450f38148&dn=%E3%80%8Egirlcelly%E3%80%8F%20%5B170324%5D%20%5Bensemble%5D%20%E6%83%B3%E3%81%84%E3%82%92%E6%8D%A7%E3%81%92%E3%82%8B%E4%B9%99%E5%A5%B3%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%20%2B%20Bonus&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
+a169ebe3ed7a7d642a681d40170def63#1c940566bc53caf2bb749547839cb12d#2757089498#有少女献鸣的爱之奏章 2.wim
 ```
-主要内容为后日谈的FD：
+主要内容为后日谈的FD：汉化硬盘版
+秒传链接 密码：tmhtmiao.com
 ```
-magnet:?xt=urn:btih:650279c137797e10882eb8bf63482a87a9ffd884&dn=%E2%94%822D.G.F.%E2%94%82%20%5B171124%5D%20%5Bensemble%5D%20%E6%83%B3%E3%81%84%E3%82%92%E6%8D%A7%E3%81%92%E3%82%8B%E4%B9%99%E5%A5%B3%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%20%EF%BD%9E%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E6%83%B3%E3%81%84%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%AB%E3%81%AE%E3%81%9B%E3%81%A6%EF%BD%9E%20%2B%20%E9%9F%B3%E5%A3%B0%E8%BF%BD%E5%8A%A0%E3%83%91%E3%83%83%E3%83%81%20%2B%20%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%EF%BC%86%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
+36b33a7608f0833fa826a6aac14b8f35#538cd6a8dc9bcb57377de049ef1fb899#2117564214#有少女献鸣的爱之奏章 ～愿奏章之上思念满载～.rar
 ```
 
 <style>
