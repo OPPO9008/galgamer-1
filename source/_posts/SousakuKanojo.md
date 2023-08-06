@@ -925,6 +925,11 @@ magnet:?xt=urn:btih:c71a43b132fbb8b7e40d0cd8ebf8bb665a2f1a95
 
 文件名：1139361
 
+md5 
+[211126][1139361][Aino＋Links] 創作彼女の恋愛公式 DL版 (files).rar f3062bcc5b3ad061528f7fcd1d47a351
+
+<a class="btn" href="https://cdn.jsdelivr.net/npm/galgame-oss@1.0.20/1139361.torrent" title="使用了本站黑科技的BT种子"> 有黑科技的BT种子下载</a>
+
 或者從琉璃神社下載：{% telegram_channel 1778 liuli_link %}
 
 <style>
